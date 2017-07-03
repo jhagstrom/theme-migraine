@@ -1,9 +1,13 @@
 {
     "name": "theme-migraine",
     "displayName": "Migraine",
-    "description": "Green and pink them",
+    "description": "Green and pink theme",
     "version": "0.0.1",
     "publisher": "jhagstrom",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jhagstrom/theme-migraine"
+    },
     "engines": {
         "vscode": "^1.5.0"
     },
@@ -11,12 +15,10 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [
-            {
-                "label": "Migraine",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Migraine.tmTheme"
-            }
-        ]
+        "themes": [{
+            "label": "Migraine",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Migraine.tmTheme"
+        }]
     }
 }
