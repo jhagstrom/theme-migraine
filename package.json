@@ -1,0 +1,22 @@
+{
+    "name": "theme-migraine",
+    "displayName": "Migraine",
+    "description": "Green and pink them",
+    "version": "0.0.1",
+    "publisher": "jhagstrom",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Migraine",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Migraine.tmTheme"
+            }
+        ]
+    }
+}
