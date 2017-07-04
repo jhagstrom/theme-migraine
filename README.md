@@ -3,19 +3,19 @@ This is my first go at creating a Visual Studio Code theme. The color scheme is 
 
 Below are a few screenshots visualizing the theme in use editing C#, PowerShell and JSON.
 
-C#:
+`C#:`
 
 ![C# Screenshot][screenshot1]
 
 [screenshot1]: https://raw.githubusercontent.com/jhagstrom/theme-migraine/master/images/screen1.png "C#"
 
-PowerShell:
+`PowerShell:`
 
 ![PowerShell screenshot][screenshot2]
 
 [screenshot2]: https://raw.githubusercontent.com/jhagstrom/theme-migraine/master/images/screen2.png "PowerShell"
 
-JSON:
+`JSON:`
 
 ![JSON screenshot][screenshot3]
 
