@@ -3,9 +3,9 @@
     "displayName": "Migraine",
     "description": "Mainly green and pink theme for Visual Studio Code.",
     "version": "0.0.2",
-    "publisher": "Joakim Hagström",
+    "publisher": "jhagstrom",
     "license": "SEE LICENSE IN LICENSE.txt",
-    "icon": "/images/migraine-logo.png",
+    "icon": "images/migraine-logo.png",
     "homepage": "https://github.com/jhagstrom/theme-migraine/blob/master/README.md",
     "galleryBanner": {
         "color": "#1E2129",
