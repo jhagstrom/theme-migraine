@@ -7,16 +7,16 @@ C#:
 
 ![C# Screenshot][screenshot]
 
-[screenshot]: https://github.com/jhagstrom/theme-migraine/blob/master/images/screen1.png "C#"
+[screenshot]: https://raw.githubusercontent.com/jhagstrom/theme-migraine/master/images/screen1.png "C#"
 
 PowerShell:
 
 ![PowerShell screenshot][screenshot]
 
-[screenshot]: https://github.com/jhagstrom/theme-migraine/blob/master/images/screen2.png "PowerShell"
+[screenshot]: https://raw.githubusercontent.com/jhagstrom/theme-migraine/master/images/screen2.png "PowerShell"
 
 JSON:
 
 ![JSON screenshot][screenshot]
 
-[screenshot]: https://github.com/jhagstrom/theme-migraine/blob/master/images/screen3.png "JSON"
+[screenshot]: https://raw.githubusercontent.com/jhagstrom/theme-migraine/master/images/screen3.png "JSON"
