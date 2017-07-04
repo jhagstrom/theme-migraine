@@ -2,7 +2,7 @@
     "name": "theme-migraine",
     "displayName": "Migraine",
     "description": "Mainly green and pink theme for Visual Studio Code.",
-    "version": "0.0.3",
+    "version": "0.0.5",
     "publisher": "jhagstrom",
     "license": "SEE LICENSE IN LICENSE.txt",
     "icon": "images/migraine-logo.png",
