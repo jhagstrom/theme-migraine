@@ -180,7 +180,7 @@
 				<key>foreground</key>
 				<string>#5BB1F3</string>
 				<key>background</key>
-				<string></string>
+				<string>#1e2129</string>
 			</dict>
 		</dict>
 		<dict>
@@ -192,6 +192,8 @@
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
+				<key>foreground</key>
+				<string>#00E305</string>
 			</dict>
 		</dict>
 		<dict>
